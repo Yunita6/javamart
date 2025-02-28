@@ -1,4 +1,4 @@
-# Aplikasi Pengelolaan Data Member dengan PHP 8, MySQLi, dan Bootstrap 5
+# Aplikasi Pengelolaan Data Member javamart dengan PHP 8, MySQLi, dan Bootstrap 5
 Aplikasi Pengelolaan Data Member ini dibangun menggunakan bahasa pemrograman PHP Versi 8 dan database MySQL/MariaDB. Untuk berkomunikasi dengan database menggunakan MySQLi Extension dengan antarmuka Procedural.
 
 Aplikasi ini merupakan contoh studi kasus sederhana yang menerapkan operasi dasar seperti Create, Read, Update, Delete, dan masih banyak lagi lainnya yang wajib diketahui oleh setiap programmer karena akan selalu digunakan dalam membangun sebuah sistem.
